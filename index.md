@@ -10,8 +10,8 @@ humandate: "Mon/Wed, June 22-July 1, 2020"
 humantime: "1:00 - 2:30 pm"
 startdate: 2020-06-22      
 enddate: 2020-07-01
-instructor: ["Yuanxi Fu", "Sébastien Vigneau", "Stanley Yang"]
-helper: ["Selcan Aydin", "Alexis Catherine Garretson", "Amnah Siddiqa", "Sue McClatchy"]   
+instructor: ["Yuanxi Fu", "Sébastien Vigneau", "Stanley Yang", "Sue McClatchy"]
+helper: ["Selcan Aydin", "Alexis Catherine Garretson", "Amnah Siddiqa"]   
 email: ["susan.mcclatchy@jax.org"] 
 collaborative_notes: https://pad.carpentries.org/2020-06-22-jax-r-online
 eventbrite: 
